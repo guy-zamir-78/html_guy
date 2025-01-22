@@ -1,2 +1,2 @@
 # HTML_Guy
-1. My first repositpory
+1. My first repository
